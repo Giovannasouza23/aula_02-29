@@ -1,2 +1,2 @@
-# aula_02-29
-exercícios PHP
+# php_sessao
+Exemplo de estrutura condicional com sessão em PHP
